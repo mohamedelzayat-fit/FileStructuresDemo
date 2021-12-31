@@ -1,0 +1,6 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\bin\Debug\FileStructures.CursorOperations.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\bin\Debug\FileStructures.CursorOperations.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\obj\Debug\FileStructures.CursorOperations.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\obj\Debug\FileStructures.CursorOperations.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\obj\Debug\FileStructures.CursorOperations.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CursorOperations\obj\Debug\FileStructures.CursorOperations.pdb

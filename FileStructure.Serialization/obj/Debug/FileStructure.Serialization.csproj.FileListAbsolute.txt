@@ -1,0 +1,5 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructure.Serialization\bin\Debug\FileStructure.Serialization.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructure.Serialization\bin\Debug\FileStructure.Serialization.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructure.Serialization\obj\Debug\FileStructure.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructure.Serialization\obj\Debug\FileStructure.Serialization.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructure.Serialization\obj\Debug\FileStructure.Serialization.pdb

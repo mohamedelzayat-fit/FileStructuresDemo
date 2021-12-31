@@ -1,0 +1,6 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\bin\Debug\FileStructures.CSV.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\bin\Debug\FileStructures.CSV.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\obj\Debug\FileStructures.CSV.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\obj\Debug\FileStructures.CSV.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\obj\Debug\FileStructures.CSV.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.CSV\obj\Debug\FileStructures.CSV.pdb

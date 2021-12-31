@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{944E9E16-DF54-4F7B-9E61-87A3D1F51CFD}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>IntroductionToFileStructures</RootNamespace>
+    <AssemblyName>IntroductionToFileStructures</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileStructure.Serialization\FileStructure.Serialization.csproj">
+      <Project>{ebdf3087-d2df-4e2b-a530-ed772f93aad7}</Project>
+      <Name>FileStructure.Serialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.Core\FileStructures.Core.csproj">
+      <Project>{1d8a62ab-a271-4da4-9b9a-681df3a3f25f}</Project>
+      <Name>FileStructures.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.CSV\FileStructures.CSV.csproj">
+      <Project>{f5c216db-9cdc-4c60-a6d8-c02d769e8415}</Project>
+      <Name>FileStructures.CSV</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.CursorOperations\FileStructures.CursorOperations.csproj">
+      <Project>{e64928ae-ef99-4b21-ab5d-8d40a99c38df}</Project>
+      <Name>FileStructures.CursorOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.Indexing\FileStructures.Indexing.csproj">
+      <Project>{d1c12859-21c7-4cff-b5ae-cd1d10c7ec54}</Project>
+      <Name>FileStructures.Indexing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.KeyEqualValue\FileStructures.KeyEqualValue.csproj">
+      <Project>{b9e807d2-944b-4333-8170-6fd83260e2af}</Project>
+      <Name>FileStructures.KeyEqualValue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileStructures.SimpleWrite\FileStructures.SimpleWrite.csproj">
+      <Project>{45e8310c-6f15-4be1-b82b-513948034771}</Project>
+      <Name>FileStructures.SimpleWrite</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

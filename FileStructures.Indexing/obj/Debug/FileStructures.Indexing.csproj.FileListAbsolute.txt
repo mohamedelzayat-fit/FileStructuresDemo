@@ -1,0 +1,6 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\bin\Debug\FileStructures.Indexing.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\bin\Debug\FileStructures.Indexing.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\obj\Debug\FileStructures.Indexing.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\obj\Debug\FileStructures.Indexing.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\obj\Debug\FileStructures.Indexing.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Indexing\obj\Debug\FileStructures.Indexing.pdb

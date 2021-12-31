@@ -1,0 +1,9 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\bin\Debug\FileStructures.KeyEqualValue.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\bin\Debug\FileStructures.KeyEqualValue.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\bin\Debug\FileStructures.Core.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\bin\Debug\FileStructures.Core.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\obj\Debug\FileStructures.KeyEqualValue.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\obj\Debug\FileStructures.KeyEqualValue.csproj.CopyComplete
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\obj\Debug\FileStructures.KeyEqualValue.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\obj\Debug\FileStructures.KeyEqualValue.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.KeyEqualValue\obj\Debug\FileStructures.KeyEqualValue.csproj.AssemblyReference.cache

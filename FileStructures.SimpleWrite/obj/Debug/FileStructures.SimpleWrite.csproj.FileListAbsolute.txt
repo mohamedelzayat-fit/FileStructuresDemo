@@ -1,0 +1,6 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\bin\Debug\FileStructures.SimpleWrite.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\bin\Debug\FileStructures.SimpleWrite.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\obj\Debug\FileStructures.SimpleWrite.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\obj\Debug\FileStructures.SimpleWrite.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\obj\Debug\FileStructures.SimpleWrite.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.SimpleWrite\obj\Debug\FileStructures.SimpleWrite.pdb

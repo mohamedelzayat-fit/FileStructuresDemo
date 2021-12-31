@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "944e9e16-df54-4f7b-9e61-87a3d1f51cfd": {
+      "ProjectGuid": "944e9e16-df54-4f7b-9e61-87a3d1f51cfd",
+      "DisplayName": "IntroductionToFileStructures",
+      "ColorIndex": 0
+    },
+    "1d8a62ab-a271-4da4-9b9a-681df3a3f25f": {
+      "ProjectGuid": "1d8a62ab-a271-4da4-9b9a-681df3a3f25f",
+      "DisplayName": "FileStructures.Core",
+      "ColorIndex": 1
+    },
+    "45e8310c-6f15-4be1-b82b-513948034771": {
+      "ProjectGuid": "45e8310c-6f15-4be1-b82b-513948034771",
+      "DisplayName": "FileStructures.SimpleWrite",
+      "ColorIndex": 2
+    },
+    "b9e807d2-944b-4333-8170-6fd83260e2af": {
+      "ProjectGuid": "b9e807d2-944b-4333-8170-6fd83260e2af",
+      "DisplayName": "FileStructures.KeyEqualValue",
+      "ColorIndex": 3
+    },
+    "f5c216db-9cdc-4c60-a6d8-c02d769e8415": {
+      "ProjectGuid": "f5c216db-9cdc-4c60-a6d8-c02d769e8415",
+      "DisplayName": "FileStructures.CSV",
+      "ColorIndex": 4
+    },
+    "e64928ae-ef99-4b21-ab5d-8d40a99c38df": {
+      "ProjectGuid": "e64928ae-ef99-4b21-ab5d-8d40a99c38df",
+      "DisplayName": "FileStructures.CursorOperations",
+      "ColorIndex": 5
+    },
+    "d1c12859-21c7-4cff-b5ae-cd1d10c7ec54": {
+      "ProjectGuid": "d1c12859-21c7-4cff-b5ae-cd1d10c7ec54",
+      "DisplayName": "FileStructures.Indexing",
+      "ColorIndex": 6
+    },
+    "ebdf3087-d2df-4e2b-a530-ed772f93aad7": {
+      "ProjectGuid": "ebdf3087-d2df-4e2b-a530-ed772f93aad7",
+      "DisplayName": "FileStructure.Serialization",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

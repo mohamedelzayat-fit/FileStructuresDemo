@@ -1,0 +1,6 @@
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\bin\Debug\FileStructures.Core.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\bin\Debug\FileStructures.Core.pdb
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\obj\Debug\FileStructures.Core.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\obj\Debug\FileStructures.Core.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\obj\Debug\FileStructures.Core.dll
+C:\Users\mohamed\source\repos\IntroductionToFileStructures\FileStructures.Core\obj\Debug\FileStructures.Core.pdb
